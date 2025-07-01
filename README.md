@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/RosaAnderson/ARCupom/assets/116763922/182bbe18-38b6-42bf-9039-ee73fcd56eb1" width="300"/>
+    <img src="https://github.com/user-attachments/assets/5a082173-83fe-4b27-a1f6-c597afba5c76" width="300"/>
 </div>
 
 <div>
